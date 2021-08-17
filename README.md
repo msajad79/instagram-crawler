@@ -18,6 +18,7 @@ Must be the name of username column.
     |instagram      |
     |cristiano      |
     |selenagomez    |
+    |leomessi       |
     |...            |
 4. Finally, run the program as follows.
     ```bash
