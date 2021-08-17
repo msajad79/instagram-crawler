@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Test
+test.py
+secret_data.py
+my_test
+
+# IDE
+.vscode
+
+# others
+img
+database/*
+report
