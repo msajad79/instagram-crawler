@@ -14,7 +14,7 @@ Crawling the basic information and posts of the Instagram account.
 Must be the name of username column.
 
     | username      |
-    |---------------|
+    |:-------------:|
     |instagram      |
     |cristiano      |
     |selenagomez    |
