@@ -22,7 +22,7 @@ Must be the name of username column.
     |...            |
 4. Finally, run the program as follows.
     ```bash
-    python main.py -U <username> -P password -L <path file> 
+    python main.py -U <username> -P <password> -L <path file> 
     ```
 # TODO:
 - [ ] handle 429 status code
