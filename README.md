@@ -4,7 +4,7 @@ Crawling the basic information and posts of the Instagram account.
 ## Installation
 1. first step clone repository
     ```bash
-    git clone 
+    git clone https://github.com/msajad79/instagram-crawler.git
     ```
 2. Install libraries
     ```bash
